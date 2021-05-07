@@ -1,0 +1,292 @@
+{
+  "continentsSlider": [
+    {
+      "slug": "europe",
+      "title": "Europa",
+      "description": "O continente mais antigo",
+      "image": "/continents/europe.png"
+    },
+    {
+      "slug": "asia",
+      "title": "Asia",
+      "description": "O mundo oriental",
+      "image": "/continents/asia.jpeg"
+    },
+    {
+      "slug": "africa",
+      "title": "Africa",
+      "description": "O berço da civilização",
+      "image": "/continents/africa.jpeg"
+    },
+    {
+      "slug": "northAmerica",
+      "title": "América do Norte",
+      "description": "O novo mundo",
+      "image": "/continents/north_america.jpeg"
+    },
+    {
+      "slug": "southAmerica",
+      "title": "América do Sul",
+      "description": "O continente tropical",
+      "image": "/continents/south_america.jpeg"
+    },
+    {
+      "slug": "oceania",
+      "title": "Oceania",
+      "description": "O menor continente da Terra",
+      "image": "/continents/oceania.jpeg"
+    }
+  ],
+
+  "continents": [
+    {
+      "slug": "europe",
+      "banner": {
+        "title": "Europa",
+        "image": "/continents/europe.png"
+      },
+      "body": {
+        "bio": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "info": {
+          "totalCountries": 50,
+          "totalLanguages": 60,
+          "totalCities": 27
+        }
+      },
+      "cities": [
+        {
+          "country": "Reino unido",
+          "capital": "Londres",
+          "image": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        {
+          "country": "França",
+          "capital": "Paris",
+          "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png"
+        },
+        {
+          "country": "Itália",
+          "capital": "Roma",
+          "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png"
+        },
+        {
+          "country": "República Tcheca",
+          "capital": "Praga",
+          "image": "https://images.unsplash.com/photo-1503410781609-75b1d892dd28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "flag": "https://www.nationalflags.shop/WebRoot/vilkasfi01/Shops/2014080403/53E6/2F53/8335/F829/FA75/0A28/100B/045D/Flag_of_the_Czech_Republic.png"
+        },
+        {
+          "country": "Holanda",
+          "capital": "Amsterdã",
+          "image": "https://images.unsplash.com/photo-1587992532373-7d27eca6e1f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=644&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png"
+        }
+      ]
+    },
+    {
+      "slug": "asia",
+      "banner": {
+        "title": "Ásia",
+        "image": "/continents/asia.jpeg"
+      },
+      "body": {
+        "bio": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+        "info": {
+          "totalCountries": 50,
+          "totalLanguages": 60,
+          "totalCities": 27
+        }
+      },
+      "cities": [
+        {
+          "country": "India",
+          "capital": "Mombai",
+          "image": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+          "flag": "https://www.worldometers.info/img/flags/in-flag.gif"
+        },
+        {
+          "country": "China",
+          "capital": "Xangai",
+          "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80",
+          "flag": "https://www.worldometers.info/img/flags/ch-flag.gif"
+        },
+        {
+          "country": "Paquistão",
+          "capital": "Karachi",
+          "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80",
+          "flag": "https://www.worldometers.info/img/flags/pk-flag.gif"
+        },
+        {
+          "country": "Turquia",
+          "capital": "Istambul",
+          "image": "https://images.unsplash.com/photo-1503410781609-75b1d892dd28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "flag": "https://www.worldometers.info/img/flags/tu-flag.gif"
+        },
+        {
+          "country": "Coreia do Sul",
+          "capital": "Seul",
+          "image": "https://images.unsplash.com/photo-1587992532373-7d27eca6e1f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=644&q=80",
+          "flag": "https://www.worldometers.info/img/flags/ks-flag.gif"
+        }
+      ]
+    },
+    {
+      "slug": "africa",
+      "banner": {
+        "title": "Africa",
+        "image": "/continents/africa.jpeg"
+      },
+      "body": {
+        "bio": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005[1]), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.",
+        "info": {
+          "totalCountries": 50,
+          "totalLanguages": 60,
+          "totalCities": 27
+        }
+      },
+      "cities": [
+        {
+          "country": "Egito",
+          "capital": "Cairo",
+          "image": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/480px-Flag_of_Egypt.svg.png"
+        },
+        {
+          "country": "Nigeria",
+          "capital": "Lagos",
+          "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/480px-Flag_of_Nigeria.svg.png"
+        },
+        {
+          "country": "República Democrática do Congo",
+          "capital": "Kinshasa",
+          "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/480px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
+        },
+        {
+          "country": "Africa do Sul",
+          "capital": "Joanesburgo",
+          "image": "https://images.unsplash.com/photo-1503410781609-75b1d892dd28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/480px-Flag_of_South_Africa.svg.png"
+        },
+        {
+          "country": "Somália",
+          "capital": "Mogadíscio",
+          "image": "https://images.unsplash.com/photo-1587992532373-7d27eca6e1f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=644&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/480px-Flag_of_Somalia.svg.png"
+        }
+      ]
+    },
+    {
+      "slug": "northAmerica",
+      "banner": {
+        "title": "América do Norte",
+        "image": "/continents/north_america.jpeg"
+      },
+      "body": {
+        "bio": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+        "info": {
+          "totalCountries": 50,
+          "totalLanguages": 60,
+          "totalCities": 27
+        }
+      },
+      "cities": [
+        {
+          "country": "México",
+          "capital": "Cidade do México",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Polanco_Skyline_Mexico_City_DF.jpg/140px-Polanco_Skyline_Mexico_City_DF.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/480px-Flag_of_Mexico.svg.png"
+        },
+        {
+          "country": "EUA",
+          "capital": "Nova Iorque",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Top_of_Rock_Cropped.jpg/140px-Top_of_Rock_Cropped.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/480px-Flag_of_the_United_States.svg.png"
+        },
+        {
+          "country": "EUA",
+          "capital": "Los Angeles",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/DowntownLosAngeles.jpg/140px-DowntownLosAngeles.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/480px-Flag_of_the_United_States.svg.png"
+        }
+
+      ]
+    },
+    {
+      "slug": "southAmerica",
+      "banner": {
+        "title": "América do Sul",
+        "image": "/continents/south_america.jpeg"
+      },
+      "body": {
+        "bio": "A América do Sul é um continente[2][3] que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano.[4][5] A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake. Tem uma extensão de 7 500 km desde o mar do Caribe até ao cabo Horn, ponto extremo sul do continente. Os outros pontos extremos da América do Sul são: ao norte a Punta Gallinas, na Colômbia, ao leste a Ponta do Seixas, no Brasil, e a oeste a Punta Pariñas, no Peru. Seus limites naturais são: ao norte com o mar do Caribe; a leste, nordeste e sudeste com o oceano Atlântico; e a oeste com o oceano Pacífico.[6] O Brasil representa atualmente a metade da população e produto econômico desta região.[7]",
+        "info": {
+          "totalCountries": 50,
+          "totalLanguages": 60,
+          "totalCities": 27
+        }
+      },
+      "cities": [
+        {
+          "country": "São Paulo",
+          "capital": "Brasil",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%A3o_Paulo_city_%28Bela_Vista%29.jpg/125px-S%C3%A3o_Paulo_city_%28Bela_Vista%29.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/480px-Flag_of_Brazil.svg.png"
+        },
+        {
+          "country": "Argentina",
+          "capital": "Buenos Aires",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Congreso_de_la_Naci%C3%B3n_Argentina_05.jpg/125px-Congreso_de_la_Naci%C3%B3n_Argentina_05.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/480px-Flag_of_Argentina.svg.png"
+        },
+        {
+          "country": "Colômbia",
+          "capital": "Bogotá",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bogot%C3%A1_de_noche.jpg/125px-Bogot%C3%A1_de_noche.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/480px-Flag_of_Colombia.svg.png"
+        }
+
+      ]
+    },
+    {
+      "slug": "oceania",
+      "banner": {
+        "title": "Oceania",
+        "image": "/continents/oceania.jpeg"
+      },
+      "body": {
+        "bio": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+        "info": {
+          "totalCountries": 50,
+          "totalLanguages": 60,
+          "totalCities": 27
+        }
+      },
+      "cities": [
+        {
+          "country": "Sydney",
+          "capital": "Australia",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_opera_house_and_skyline.jpg/150px-Sydney_opera_house_and_skyline.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/480px-Flag_of_Australia_%28converted%29.svg.png"
+        },
+        {
+          "country": "Indonésia",
+          "capital": "Macáçar",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aucklandqueenmary2.jpg/300px-Aucklandqueenmary2.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/480px-Flag_of_Indonesia.svg.png"
+        },
+        {
+          "country": "Nova Zelândia",
+          "capital": "Manukau",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Melbourne_docklands_twilight.jpg/150px-Melbourne_docklands_twilight.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/480px-Flag_of_New_Zealand.svg.png"
+        }
+
+      ]
+    }
+  ]
+}
